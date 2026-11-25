@@ -72,13 +72,13 @@ Task
 Assigned Member
 Schedule
 Project Planning
-Member 1
+ALL Members
 Week 1
 Designing the Website
-Member 2
+Member :Jacob Manocsoc
 Week 1
 Planning Data Storage
-Member 3
+Member :Hendrick Negapatan
 Week 2
 Feature Development
 All Members
@@ -90,7 +90,7 @@ Final Review and Presentation
 All Members
 Week 4
 
-Note: Replace the member numbers with your actual team members' names.
+
 
 
 # Expected Output
